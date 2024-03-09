@@ -1,2 +1,6 @@
 Hi this is varun 
+<<<<<<< HEAD
 hiiiiiiii
+=======
+hiii this varun again 
+>>>>>>> 63e9dda1d62bf5187d9bfe9d729e9aade82453bb
